@@ -21,3 +21,6 @@ RUN bash ./requirements/install_quarto.sh $QUARTO_VER
 # Install dependencies
 COPY requirements.txt install_requirements.sh requirements/
 RUN bash requirements/install_requirements.sh $ENV_NAME $PYTHON_VER
+RUN curl https://ollama.ai/install.sh | sh
+RUN ollama serve
+# RUN ollama run mistral
