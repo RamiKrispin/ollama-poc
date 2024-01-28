@@ -8,12 +8,13 @@ This repository provides a simple example of setting up and using Ollama with th
 **Last update:** Jan 28, 2024
 
 ## Table of Contents
-- Motivation
-- Scope
-- Setting up Ollama
-- Setting Up Python Environment
-- Resources
-- License
+- [Motivation](https://github.com/RamiKrispin/ollama-poc?tab=readme-ov-file#motivation)
+- [Scope](https://github.com/RamiKrispin/ollama-poc?tab=readme-ov-file#scope)
+- [Setting up Ollama](https://github.com/RamiKrispin/ollama-poc?tab=readme-ov-file#setting-up-ollama)
+- [Setting Up Python Environment](https://github.com/RamiKrispin/ollama-poc?tab=readme-ov-file#setting-up-python-environment)
+- [Running Ollama in Python](https://github.com/RamiKrispin/ollama-poc?tab=readme-ov-file#running-ollama-in-python)
+- [Resources](https://github.com/RamiKrispin/ollama-poc?tab=readme-ov-file#resources)
+- [License](https://github.com/RamiKrispin/ollama-poc?tab=readme-ov-file#license)
 
 
 ## Motivation
