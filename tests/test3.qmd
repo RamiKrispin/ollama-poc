@@ -1,0 +1,19 @@
+---
+title: "Test Quarto"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+Loading libraries:
+
+```{python}
+import pandas as pd
+```
+
+Use the `print` command:
+
+```{python}
+print("Hello World!")
+```
