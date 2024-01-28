@@ -1,3 +1,3 @@
-import pandas as pd 
+import ollama
 
 print("Hello World!")
