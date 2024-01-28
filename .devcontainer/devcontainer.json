@@ -1,18 +1,18 @@
 {
-    "name": "${localEnv:PROJECT_A_NAME:my_project_name}",
+    "name": "ollama-poc",
     // "image": "python:3.10",
     "build": {
         "dockerfile": "Dockerfile",
         "args": {
-            "ENV_NAME": "${localEnv:PROJECT_A_NAME:my_project_name}",
+            "ENV_NAME": "ollama-poc",
             "PYTHON_VER": "${localEnv:PYTHON_VER:3.10}",
             "QUARTO_VER": "${localEnv:QUARTO_VER:1.3.450}"
         }
     },
     "customizations": {
         "settings": {
-            "python.defaultInterpreterPath": "/opt/conda/envs/${localEnv:PROJECT_A_NAME:my_project_name}/bin/python3",
-            "python.selectInterpreter": "/opt/conda/envs/${localEnv:PROJECT_A_NAME:my_project_name}/bin/python3"
+            "python.defaultInterpreterPath": "/opt/conda/envs/ollama-poc/bin/python3",
+            "python.selectInterpreter": "/opt/conda/envs/ollama-poc/bin/python3"
         },
         "vscode": {
             "extensions": [
@@ -43,5 +43,5 @@
         "--env-file",
         ".devcontainer/devcontainer.env"
     ],
-    "postCreateCommand": "python3 tests/test1.py"
+    "postCreateCommand": "ollama serve"
 }
