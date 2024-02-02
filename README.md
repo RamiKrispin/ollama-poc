@@ -5,7 +5,6 @@ This repository provides a simple example of setting up and using Ollama with th
 
 <figure>
  <img src="images/ollama.png" width="80%" align="center"/></a>
-<figcaption> Figure 1 - A Wheel carries containers in space (created with Midjourney)</figcaption>
 </figure>
 
 **Note:** This repo is still WIP (pre-spelling)
