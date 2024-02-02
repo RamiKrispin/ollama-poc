@@ -10,7 +10,7 @@ This repository provides a simple example of setting up and using Ollama with th
 
 **Note:** This repo is still WIP (pre-spelling)
 
-**Last update:** Jan 28, 2024
+**Last update:** Feb 1st, 2024
 
 ## Table of Contents
 - [Motivation](https://github.com/RamiKrispin/ollama-poc?tab=readme-ov-file#motivation)
