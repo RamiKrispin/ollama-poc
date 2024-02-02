@@ -3,6 +3,11 @@
 This repository provides a simple example of setting up and using Ollama with the Ollama Python library. Code is available on this [notebook](https://github.com/RamiKrispin/ollama-poc/blob/main/ollama-poc.ipynb). 
 
 
+<figure>
+ <img src="images/ollama.png" width="80%" align="center"/></a>
+<figcaption> Figure 1 - A Wheel carries containers in space (created with Midjourney)</figcaption>
+</figure>
+
 **Note:** This repo is still WIP (pre-spelling)
 
 **Last update:** Jan 28, 2024
