@@ -2,10 +2,12 @@
 
 This repository provides a simple example of setting up and using Ollama with the Ollama Python library. Code is available on this [notebook](https://github.com/RamiKrispin/ollama-poc/blob/main/ollama-poc.ipynb). 
 
-
+<br>
 <figure>
  <img src="images/ollama.png" width="80%" align="center"/></a>
 </figure>
+</br>
+
 
 **Note:** This repo is still WIP (pre-spelling)
 
