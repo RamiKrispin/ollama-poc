@@ -1,7 +1,8 @@
 wheel==0.40.0
-pandas==2.0.3
+pandas==2.2.2
 plotly-express==0.4.1
 ipywidgets
 ipykernel
 jupyter 
-ollama==0.1.4
+ollama==0.1.8
+duckdb==0.10.2
